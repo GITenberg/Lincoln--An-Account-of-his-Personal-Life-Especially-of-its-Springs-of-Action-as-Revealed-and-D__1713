@@ -1,5 +1,8 @@
 _repo: Lincoln--An-Account-of-his-Personal-Life-Especially-of-its-Springs-of-Action-as-Revealed-and-D__1713
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stephenson, Nathaniel W. (Nathaniel Wright)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '700'
     url: http://www.gutenberg.org/2009/agents/700
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1713#Lincoln--An-Account-of-his-Personal-Life-Especially-of-its-Springs-of-Action-as-Revealed-and-D_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
